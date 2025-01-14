@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Xinyuan Zhang`
+- **CCID:** `1818573`
 
 ## References and Resources
 
