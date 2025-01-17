@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     private EditText editCityName;
-    private Button buttonAddCity, buttonDeleteCity;
+    private Button buttonAddCity;
     private ListView cityList;
     private ArrayList<String> dataList;
     private ArrayAdapter<String> cityAdapter;
@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
         // initialize each term
         editCityName = findViewById(R.id.editCityName);
         buttonAddCity = findViewById(R.id.buttonAddCity);
-        buttonDeleteCity = findViewById(R.id.buttonDeleteCity);
         cityList = findViewById(R.id.city_list);
 
         dataList = new ArrayList<>();
